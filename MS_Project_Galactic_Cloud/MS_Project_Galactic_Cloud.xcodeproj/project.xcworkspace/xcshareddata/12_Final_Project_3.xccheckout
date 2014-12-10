@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B3A802AD-3A6C-406C-8B9A-207CD1553B5D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>12_Final_Project_3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>95299D4B43FEA06592D5B0C9A8B81A3359D128BC</key>
+		<string>https://github.com/reginaflores/florr422_sims2014_1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>12_Final_Project_3/12_Final_Project_3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>95299D4B43FEA06592D5B0C9A8B81A3359D128BC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/reginaflores/florr422_sims2014_1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>95299D4B43FEA06592D5B0C9A8B81A3359D128BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>95299D4B43FEA06592D5B0C9A8B81A3359D128BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>florr422_sims2014</string>
+		</dict>
+	</array>
+</dict>
+</plist>
